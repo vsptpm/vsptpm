@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="635" src="meh.gif" alt="vsptpm">
+  <img src="meh.gif" alt="vsptpm">
 </p>
